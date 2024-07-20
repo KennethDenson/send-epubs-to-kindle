@@ -13,7 +13,7 @@ This Python script automates the process of searching for `.epub` files in a spe
 
 - Python 3.x
 
-You'll download the [send-epubs-to-kindle.py](url) (or copy and paste into a new python file) on your linux machine. Edit the areas of the script that are marked. I recomend setting environment variables for the sending email address and it's password by doing the following:
+You'll download the [send-epubs-to-kindle.py](https://github.com/KennethDenson/send-epubs-to-kindle/blob/main/send-epub-to-kindle.py) (or copy and paste into a new python file) on your linux machine. Edit the areas of the script that are marked. I recomend setting environment variables for the sending email address and it's password by doing the following:
 
 
 ```bash
